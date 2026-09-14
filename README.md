@@ -24,4 +24,4 @@ Co-founded a two-person game studio (2022–2024) — performance-critical simul
 
 Rust · TypeScript · Anchor · SPL Token · Metaplex · Raydium · Meteora
 
-[LinkedIn](https://linkedin.com/in/comradekoval) · igor.koval.dev@proton.me
+[LinkedIn](https://linkedin.com/in/comradekoval) · igor.koval.dev@icloud.com
